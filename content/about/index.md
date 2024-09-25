@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: About
 ---
 
-Here's a bit about me.
+An older app developer
