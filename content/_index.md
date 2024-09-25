@@ -1,7 +1,8 @@
 ---
-title: "Hi There"
-blurb: "Welcome to your new Hugo site."
+title: Spondycode App Development
+blurb: Making apps for end users and for businesses.
 section:
-    heading: "A Subsection"
-    text: "You can put even more content in here."
+  heading: Camping Customer Service
+  text: Show off your business in the best possible light. What are all the great
+    facilities you have on your campsite?
 ---
